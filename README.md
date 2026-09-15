@@ -72,6 +72,6 @@ Run these scripts to generate the primary figures. Figure 4 requires a composite
 ### 4. Extracting Reported Values
 To verify the exact numbers cited in the paper without modifying any files or recomputing trends, run:
 
-`python paper_numbers/print_region_trends_v1.py`
-`python paper_numbers/print_paper_numbers_v2.py`
-`python paper_numbers/count_gemstat_basin_signs.py`
+- `python paper_numbers/print_region_trends_v1.py`
+- `python paper_numbers/print_paper_numbers_v2.py`
+- `python paper_numbers/count_gemstat_basin_signs.py`
