@@ -34,7 +34,7 @@ The input datasets are not included in this repository and must be downloaded di
 The code requires **Python 3.11.** Install the required dependencies:
 `pip install numpy pandas scipy matplotlib xarray geopandas Pillow colormaps`
 
-*(Note: `geopandas` is used for basin/shapefile handling, `Pillow for figure compositing, and `colormaps` for heatmap generation).*
+*(Note: `geopandas` is used for basin/shapefile handling, `Pillow` for figure compositing, and `colormaps` for heatmap generation).*
 
 ## Reproduction Workflow
 The workflow relies on intermediate CSV files, so you must run the data processing pipeline before generating figures.
