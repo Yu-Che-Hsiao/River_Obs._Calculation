@@ -23,10 +23,10 @@ aggregate them across different spatial scales, and reproduce all figures and ta
 
 ## Data Requirements
 The input datasets are not included in this repository and must be downloaded directly from their respective providers:
-- GEMStat: Observed river water temperature (GEMS/Water Programme).
-- ERA5: 2m air temperature (t2m) and skin temperature (skt) (Copernicus Climate Change Service).
-- HadISD: Station air temperature (Met Office Hadley Centre).
-- DynWat: Modelled water temperature (monthly, 1981–2014).
+- **GEMStat**: Observed river water temperature (GEMS/Water Programme).
+- **ERA5**: 2m air temperature (t2m) and skin temperature (skt) (Copernicus Climate Change Service).
+- **HadISD**: Station air temperature (Met Office Hadley Centre).
+- **DynWat**: Modelled water temperature (monthly, 1981–2014).
   
 *Important: Before running the pipeline, you must update the file paths at the top of each script to point to your local data directories.*
 
