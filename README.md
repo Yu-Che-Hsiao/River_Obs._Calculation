@@ -5,10 +5,10 @@ The scripts provided here compute long-term temperature trends for observed rive
 aggregate them across different spatial scales, and reproduce all figures and tables presented in the main text and supplementary materials.
 
 ## Repository Structure
-- data_processing/: Scripts for upstream trend calculations. Generates intermediate CSV files used by the figure scripts.
-- figures_main/: Code to generate Main Text Figures 1–4.
-- figures_supp/: Code to generate Supplementary Figures and Tables.
-- paper_numbers/: Utility scripts that output the exact numerical values cited in the abstract, results, and figure captions.
+- `analysis/`: Scripts for upstream trend calculations. Generates intermediate CSV files used by the figure scripts.
+- `figures_main/`: Code to generate Main Text Figures 1–4.
+- `figures_supp/`: Code to generate Supplementary Figures and Tables.
+- `paper_numbers/`: Utility scripts that output the exact numerical values cited in the abstract, results, and figure captions.
 
 ## Terminology & Naming Conventions
 ### Temperature Variables:
