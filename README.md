@@ -62,7 +62,7 @@ Run these scripts to generate the primary figures. Figure 4 requires a composite
 - `python figures_main/Main_Text_Figure4_air_sensitivity_v1.6.py` # Fig 4b
 - `python figures_main/Main_Text_Figure4_combine_v1.0.py`        # Assembles Fig 4
 
-*Fig 4 requires generating components first, then compositing:*
+*Fig 4 requires generating components first, then compositing*
 
 ### 3. Supplementary Figures & Tables
 - Scripts for supplementary materials are located in `figures_supp/` and follow the `Supp_FigSN_*` and `Supp_table_*` naming conventions.
